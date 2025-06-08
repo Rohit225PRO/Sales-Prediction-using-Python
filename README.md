@@ -10,7 +10,7 @@ Welcome to the **Sales Prediction** project! This repository provides a state-of
 ```
 sales-prediction/
 │
-├── advertising.csv          # Raw dataset file
+├── advertising.xls          # Raw dataset file
 ├── sales_prediction.ipynb   # Jupyter Notebook for analysis
 └── README.md                # Project documentation
 ```
