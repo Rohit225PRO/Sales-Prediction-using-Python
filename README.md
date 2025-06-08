@@ -68,7 +68,7 @@ Follow the notebook step-by-step to explore the data, build the model, and evalu
 
 ### 📊 Dataset
 
-The dataset, named **`advertising.csv`**, contains information about advertising budgets spent on:
+The dataset, named **`advertising.xls`**, contains information about advertising budgets spent on:
 
 * **TV** advertising
 * **Radio** advertising
