@@ -10,7 +10,7 @@ Welcome to the **Sales Prediction** project! This repository provides a state-of
 ```
 sales-prediction/
 │
-├── advertising.xls          # Raw dataset file
+├── Advertising.csv         # Raw dataset file
 ├── sales_prediction.ipynb   # Jupyter Notebook for analysis
 └── README.md                # Project documentation
 ```
@@ -68,7 +68,7 @@ Follow the notebook step-by-step to explore the data, build the model, and evalu
 
 ### 📊 Dataset
 
-The dataset, named **`advertising.xls`**, contains information about advertising budgets spent on:
+The dataset, named **`advertising.csv`**, contains information about advertising budgets spent on:
 
 * **TV** advertising
 * **Radio** advertising
